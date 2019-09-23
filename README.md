@@ -8,3 +8,5 @@
 - “Mahalanobis Distance Metric Learning Algorithm for Instance-based Data Stream Classification”, in Proc. of the IEEE International Joint Conference on Neural Networks (IJCNN), IEEE World Congress on Computational Intelligence (WCCI 2016), Vancouver, Canada, July 24–29, 2016. [[Paper](https://arxiv.org/abs/1604.04879)].[[Code](https://arxiv.org/abs/1604.04879)].
 
 _Tools: Python, Scikit-Learn, Java, Massive Online Analysis ([MOA](https://moa.cms.waikato.ac.nz/))
+
+### Machine Learning

@@ -1,1 +1,0 @@
-moa.classifiers.rules.RuleClassifier

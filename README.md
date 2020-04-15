@@ -11,3 +11,7 @@ _Tools: Python, Scikit-Learn, Java, Massive Online Analysis ([MOA](https://moa.c
 
 ### Machine Learning
 - Multioutput Regression Framework. [[Code]()].
+
+
+### Deep Learning
+- Images classification. Dogs vs Cats. [[Code]()].
